@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Devesh Adlakha"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Devesh Adlakha"
-description              : &description "Researcher in computer vision"
+description              : &description "Computer Vision Researcher"
 url                      : https://devadlakha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devadlakha/devadlakha.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Devesh Adlakha"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in computer vision"
+  bio              : "Computer Vision Researcher"
   location         : "Clermont-Ferrand, France"
   employer         : "University of Clermont Auvergne"
   uri              : # URL
