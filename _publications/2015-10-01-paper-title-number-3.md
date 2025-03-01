@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2015-10-01
 venue: 'IEEE International Conference on Computer Vision 2019'
 slidesurl: 
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Adlakha_QUARCH_A_New_Quasi-Affine_Reconstruction_Stratum_From_Vague_Relative_Camera_ICCV_2019_paper.pdf)'
+paperurl: '[https://openaccess.thecvf.com/content_ICCV_2019/papers/Adlakha_QUARCH_A_New_Quasi-Affine_Reconstruction_Stratum_From_Vague_Relative_Camera_ICCV_2019_paper.pdf]'
 citation: ''
 ---
 
