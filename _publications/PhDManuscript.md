@@ -1,14 +1,14 @@
 ---
-title: "QUARCH: A New Quasi-Affine Reconstruction Stratum From Vague Relative Camera Orientation Knowledge"
+title: "Exploiting partial camera motion and geometry knowledge in uncalibrated 3D vision"
 collection: publications
-category: conferences
-permalink: /publication/ICCV2019
+category: manuscripts
+permalink: /publication/PhDManuscript
 excerpt: 
-date: 2019-10-27
-venue: 'IEEE International Conference on Computer Vision (ICCV)'
+date: 2022-12-12
+venue: 
 slidesurl: 
-paperurl: 'https://openaccess.thecvf.com/content_ICCV_2019/papers/Adlakha_QUARCH_A_New_Quasi-Affine_Reconstruction_Stratum_From_Vague_Relative_Camera_ICCV_2019_paper.pdf'
+paperurl: 'https://publication-theses.unistra.fr/public/theses_doctorat/2022/ADLAKHA_Devesh_2022_ED269.pdf'
 citation: 
 ---
 
-Devesh Adlakha, Adlane Habed, Fabio Morbidi, Cédric Demonceaux, Michel de Mathelin.
+Advised by: Michel de Mathelin, Adlane Habed (University of Strasbourg), Fabio Morbidi (University of Picardie Jules Verne), Cédric Demonceaux (University of Burgundy).
