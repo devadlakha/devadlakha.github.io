@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/PhDManuscript
 excerpt: 
 date: 2022-12-12
-venue: 
+venue: 'University of Strasbourg'
 slidesurl: 
 paperurl: 'https://publication-theses.unistra.fr/public/theses_doctorat/2022/ADLAKHA_Devesh_2022_ED269.pdf'
 citation: 
