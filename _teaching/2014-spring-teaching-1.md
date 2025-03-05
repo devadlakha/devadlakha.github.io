@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "2018"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Camera autocalibration (M1 Semester 2)"
+permalink: 
+venue: 
+date: 
+location: 
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+8h course consisting of lectures (4h) and lab sessions (4h).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
