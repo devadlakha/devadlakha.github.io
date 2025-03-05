@@ -4,7 +4,7 @@ collection: teaching
 type: "Camera autocalibration (M1 Semester 2)"
 permalink: 
 venue: 
-date: 
+date: 2018-05-01
 location: 
 ---
 
