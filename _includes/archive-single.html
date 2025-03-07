@@ -84,6 +84,10 @@
         <span style="display: inline-block; width: 10px;"></span>
         <a href="{{ post.slidesurl }}">Slides</a>
         {% endif %}
+        {% if post.poster %}
+        <span style="display: inline-block; width: 10px;"></span>
+        <a href="{{ post.poster }}">Poster</a>
+        {% endif %}
       </p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Slides</a></p>
