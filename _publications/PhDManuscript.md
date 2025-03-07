@@ -1,5 +1,5 @@
 ---
-title: "Exploiting partial camera motion and geometry knowledge in uncalibrated 3D vision"
+title: "Exploiting Partial Camera Motion and Geometry Knowledge in Uncalibrated 3D Vision"
 collection: publications
 category: theses
 permalink: /publication/PhDManuscript
