@@ -75,7 +75,8 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">{% if post.category == "theses" %}PhD Thesis{% else %}Paper{% endif %}</a></p>
+      <p><a href=" {{ post.paperurl }} ">{% if post.category == "theses" %}PhD Thesis{% else %}Paper{% endif %}</a>
+      {% if post.supplementary %}| <a href="{{ post.supplementary }}">Supplementary material</a>{% endif %}{% if post.slidesurl %}| <a href="{{ post.slidesurl }}">Slides</a>{% endif %}</p>
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Slides</a></p>
     {% endif %}
