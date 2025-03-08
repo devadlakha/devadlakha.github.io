@@ -3,6 +3,7 @@ layout: archive
 title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
+paperurl: https://graz.elsevierpure.com/en/publications/package-delivery-experiments-with-a-camera-drone
 ---
 
 ## Service
@@ -20,6 +21,7 @@ Some older work (from before my PhD) on computer vision for robotics.
 
 **Package delivery with a camera drone**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bxM6dls2wuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxM6dls2wuo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+<p><a href="{{ paperurl }}">Paper</a></p>
 
