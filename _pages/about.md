@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher in computer vision, focusing on 3D computer vision problems (image-based 3D reconstruction of rigid/deformable objects). I am particularly interested in the mathematical modeling and optimization aspects of these problems. Some applications of my research include in cultural heritage, augmented reality, and robotics. 
+I'm a researcher in computer vision, focusing on 3D computer vision problems (image-based 3D reconstruction of rigid/deformable objects). I am particularly interested in the mathematical modeling and optimization aspects of these problems. Some applications include cultural heritage, augmented reality, and robotics. 
 
 I received my PhD from the [University of Strasbourg](https://en.unistra.fr) in France, and I was advised by [Adlane Habed](https://habed.weebly.com), [Fabio Morbidi](https://home.mis.u-picardie.fr/~fabio/Index.html), [Cédric Demonceaux](https://sites.google.com/view/cedricdemonceaux/home), and [Michel de Mathelin](https://rdh.icube.unistra.fr/Michel_de_Mathelin_personal_web_page). My [PhD research](https://publication-theses.unistra.fr/public/theses_doctorat/2022/ADLAKHA_Devesh_2022_ED269.pdf) was on camera autocalibration, a classic and well-studied (yet still challenging) problem in geometric computer vision. 
 
