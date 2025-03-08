@@ -11,4 +11,4 @@ author_profile: true
 
 **Student volunteer**: ICCV 2019  
 
-**Co-founder and organizer of scientific seminars**: Association of Young Researchers of ICube, University of Strasbourg (2019-2020)   
+**Co-founder and organizer of scientific seminars**: Association of Young Researchers of ICube, University of Strasbourg (active 2019-2020)   
