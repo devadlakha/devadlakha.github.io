@@ -17,7 +17,7 @@ paperurl: https://graz.elsevierpure.com/en/publications/package-delivery-experim
 
 ## Robotics projects
 
-Some older work (from before my PhD) on computer vision for robotics.
+Earlier work from before my PhD on computer vision for robotics.
 
 **Package delivery with a camera drone**  
 
