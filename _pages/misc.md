@@ -16,5 +16,5 @@ author_profile: true
 
 ## Robotics projects
 
-I am also interested in computer vision for robotics. This is some older work (from before my PhD).
+Some older work (from before my PhD) on computer vision for robotics.
 
