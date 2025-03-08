@@ -11,6 +11,6 @@ paperurl: 'https://publication-theses.unistra.fr/public/theses_doctorat/2022/ADL
 citation: 
 ---
 
-Advisors: Michel de Mathelin, Adlane Habed (University of Strasbourg), Fabio Morbidi (University of Picardie Jules Verne), and Cédric Demonceaux (University of Burgundy).  
+Advisors: Adlane Habed, Michel de Mathelin (University of Strasbourg), Fabio Morbidi (University of Picardie Jules Verne), and Cédric Demonceaux (University of Burgundy).  
   
 Committee: Andrea Fusiello (University of Udine), Pascal Monasse (ENPC Paris), Peter Sturm (Inria Grenoble), and Pascal Vasseur (University of Picardie Jules Verne).
