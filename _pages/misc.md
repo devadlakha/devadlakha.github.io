@@ -12,3 +12,9 @@ author_profile: true
 **Student volunteer**: ICCV 2019  
 
 **Co-founder and organizer of scientific seminars**: Association of Young Researchers of ICube, University of Strasbourg (active 2019-2020)   
+
+
+## Robotics projects
+
+I am also interested in computer vision for robotics. This is some older work (from before my PhD).
+
