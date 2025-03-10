@@ -15,7 +15,7 @@ paperurl: https://graz.elsevierpure.com/en/publications/package-delivery-experim
 **Co-founder and organizer of scientific seminars**: Association of Young Researchers of ICube, University of Strasbourg (active 2019-2020)   
 
 
-## Robotics projects
+## Robot vision
 
 Earlier work on computer vision for robotics from before my PhD.
 
