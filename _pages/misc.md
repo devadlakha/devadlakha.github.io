@@ -42,7 +42,7 @@ This work was from a two-month summer internship at [MIS lab](https://www.mis.u-
 
 This was a fun robotics project that I did in my Master's program. More details in the report. 
 
-[Report](/files/Publications/Explorator_Report.pdf) <span style="display: inline-block; width: 10px;"></span> [Slides](https://docs.google.com/presentation/d/1c3bOevwVjbf8PJqQAFYKfqNDCrETQdBFC3qn7KOI7lY/edit?usp=sharing)  
+[Report](/files/Publications/Explorator_Report.pdf)
 
 
 
