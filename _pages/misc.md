@@ -29,7 +29,7 @@ This work was part of my internship at the [Institute of Computer Graphics and V
 
 **Visual contact with cadioptric cameras**
 
-<iframe src="https://drive.google.com/file/d/15TfjvueRHcyqLvz3zdAiU60KdjgFEIKi/preview" width="560" height="315" allow="autoplay"></iframe>  
+<iframe src="https://drive.google.com/file/d/15TfjvueRHcyqLvz3zdAiU60KdjgFEIKi/preview" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
 This work was from a two-month summer internship at [MIS lab](https://www.mis.u-picardie.fr), University of Picardie Jules Verne, where I worked with [Cédric Demonceaux](https://sites.google.com/view/cedricdemonceaux/home) and [El Mustapha Mouaddib](https://home.mis.u-picardie.fr/~mouaddib/index.php?page=accueil) in the Robotic Perception group. The group specializes in omnidirectional vision and had published a method for time-to-contact estimation using a central catadioptric camera. In my internship, I implemented and tested this method using a Pioneer 3-AT mobile robot. The main tools used were ROS and OpenCV. I also showed example applications of the method, including depth computation and vision-based braking. More details and results in the slides (quality may be a bit poor due to conversion from PDF) and the report.  
   
