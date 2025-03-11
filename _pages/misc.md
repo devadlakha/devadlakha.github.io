@@ -27,3 +27,9 @@ This work was part of my internship at the [Institute of Computer Graphics and V
 [Paper](https://graz.elsevierpure.com/en/publications/package-delivery-experiments-with-a-camera-drone)
 
 
+**Visual contact with cadioptric cameras**
+
+This work was from a two-month summer internship at [MIS lab](https://www.mis.u-picardie.fr), University of Picardie Jules Verne, where I worked with [Cédric Demonceaux](https://sites.google.com/view/cedricdemonceaux/home) and [El Mustapha Mouaddib](https://home.mis.u-picardie.fr/~mouaddib/index.php?page=accueil) in the Robotic Perception group. The group specializes in omnidirectional vision and had published a method for time-to-contact estimation using a central catadioptric camera. In my internship, I implemented and tested this method using a Pioneer 3-AT mobile robot. The main tools used were ROS and OpenCV. More details and results in the slides (might be poor quality due to a conversion from pdf) and report. 
+
+[Slides](https://docs.google.com/presentation/d/1c3bOevwVjbf8PJqQAFYKfqNDCrETQdBFC3qn7KOI7lY/edit?usp=sharing)
+
