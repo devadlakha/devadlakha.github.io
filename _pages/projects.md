@@ -17,7 +17,8 @@ I was part of an [acquisition campaign](https://anr-sumum.fr/campagne-de-captati
 
 3D reconstructions (sparse point clouds) obtained using our proposed methods from ICCV 2019 (left) and BMVC 2020 (right). Around 50 images were used to compute these reconstructions.
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="/files/Figures/ArbreSerpents_ICCV19.png" alt="Result from QUARCH method" width="45%">
-  <img src="/files/Figures/ArbreSerpents_BMVC20.png" alt="Result from EIP method" width="45%">
+<div style="display: flex; justify-content: space-between;">
+  <img src="/files/Figures/ArbreSerpents_ICCV19.png" alt="Result from QUARCH method" style="max-width: 45%; height: auto;">
+  <img src="/files/Figures/ArbreSerpents_BMVC20.png" alt="Result from EIP method" style="max-width: 45%; height: auto;">
 </div>
+
