@@ -19,3 +19,10 @@ I was part of an [acquisition campaign](https://anr-sumum.fr/campagne-de-captati
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="/files/Figures/ArbreSerpents_BMVC20.png" alt="Result from EIP method" style="max-width: 50%; height: auto;">
 </div>
+
+## EU H2020 Endomapper
+
+The [Endomapper](https://sites.google.com/unizar.es/endomapper/home) project, funded by the European Union's Horizon 2020 research and innovation program, aimed to advance the theory and practice of real-time localization and mapping within the human body, using only a standard monocular endoscope.  
+
+
+
