@@ -17,5 +17,6 @@ I was part of an [acquisition campaign](https://anr-sumum.fr/campagne-de-captati
 
 3D reconstruction (sparse point cloud) obtained using our proposed methods from BMVC 2020. Around 50 images were used to compute this reconstruction.  
 
-<img src="/files/Figures/ArbreSerpents_BMVC20.png" alt="Result from EIP method" style="max-width: 80%; height: auto;">
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="/files/Figures/ArbreSerpents_BMVC20.png" alt="Result from EIP method" style="max-width: 50%; height: auto;">
+</div>
