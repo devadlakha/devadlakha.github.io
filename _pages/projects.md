@@ -24,5 +24,12 @@ I was part of an [acquisition campaign](https://anr-sumum.fr/campagne-de-captati
 
 The [Endomapper](https://sites.google.com/unizar.es/endomapper/home) project, funded by the European Union's Horizon 2020 research and innovation program, aimed to advance the theory and practice of real-time localization and mapping within the human body, using only a standard monocular endoscope.  
 
+**Internships**
+
+I supervised two Master's students at the University of Clermont Auvergne during the project:  
+
+- Youssef Ezidi (April-September 2024): developed a graphical user interface for point tracking in endoscopy images.
+- Timothé Chavant-Duché (May-July 2024): worked on segmenting specular highlights in endoscopy images.
+
 
 
