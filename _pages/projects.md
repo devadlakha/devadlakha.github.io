@@ -32,7 +32,7 @@ I supervised two Master's students at the University of Clermont Auvergne during
 - Timothé Chavant-Duché (May-July 2024): worked on segmenting specular highlights in endoscopy images.
 
 
-## Robot vision
+## Robotics
 
 Earlier work on computer vision for robotics from before my PhD.
 
