@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-I was part of the following research projects.
+These projects show some of the applications of my work.
 
 ## Digital heritage 
 
